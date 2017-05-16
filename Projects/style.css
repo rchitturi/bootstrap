@@ -1,0 +1,109 @@
+.page-header{
+text-align:center;
+font-weight: bold;
+}
+
+body { 
+background-color:#7AAA44; 
+}
+
+p{
+text-align:justify;
+}
+h5{
+text-align:center;
+color: #6D3015;
+}
+
+h4{
+text-align:center;
+color: #6D3015;
+}
+
+img{
+padding-left:10px; 
+padding-bottom:10px;
+padding-right:10px;
+}
+
+.col{
+
+background-color:#a2f64f;
+}
+
+#homeImage{
+padding:0;
+}
+
+.makeTextCenter{
+text-align:center;
+}
+#makeTextCenter{
+text-align:center;
+}
+
+.navbar-default {
+    background-color: #a2f64f;
+    border-color: #000;
+}
+
+.navbar-default .navbar-brand {
+    color:  #000;
+}
+
+.navbar-default .navbar-brand:hover, 
+.navbar-default .navbar-brand:focus{
+    color: #6D3015;
+}
+
+.navbar-default .navbar-nav > li > a{
+	color:  #000;
+}
+
+.navbar-default .navbar-nav .active > a{
+	color:#6D3015;
+}
+
+
+
+
+
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #6D3015;
+	background-color: #a2f64f;
+}
+
+.navbar-default .navbar-nav > .active > a{
+	color: #6D3015;
+	background-color:#a2f64f;
+}
+
+.navbar-default .navbar-nav > .active > a:hover{
+	
+	color: #6D3015;
+	background-color: #a2f64f;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+    color: #6D3015;
+    background-color: #a2f64f;
+}
+
+.carousel-inner .img-responsive {
+
+width:750px;
+height:100px;
+}
+
+	
+@media (min-width: 767px) { 
+a{
+	font-size:10px;
+} 
+	
+}
+
